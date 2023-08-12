@@ -24,6 +24,7 @@ body {
 
 .links{
     color: red;
+    
 }
 
 .image1 {
@@ -39,6 +40,11 @@ body {
     top: 5px;
     left: 10px;
     border: 0px solid #000000;
+}
+
+.image3{
+    width: 330 px;
+    height: 400px;    
 }
 
 nav {
